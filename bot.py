@@ -5,7 +5,7 @@ from telegram.ext import ApplicationBuilder, ContextTypes, MessageHandler, filte
 
 # আপনার টেলিগ্রাম বট টোকেন এবং জেমিনি এপিআই কি
 TELEGRAM_BOT_TOKEN = "8943832358:AAHXG6dozfahWN7TQi61T_rzCYr-QL4WqJs"
-GEMINI_API_KEY = "AQ.Ab8RN6lk7SHgXiyHOMR2IRQcqxdnul..."  # আপনার জেমিনি এপিআই কি
+GEMINI_API_KEY AQ.Ab8RN6KK6E2Nl70mtyFMfb9RaU3s5DbgWDOVcIm_nRoV6DTTlA # আপনার জেমিনি এপিআই কি
 
 # জেমিনি কনফিগারেশন
 genai.configure(api_key=GEMINI_API_KEY)
