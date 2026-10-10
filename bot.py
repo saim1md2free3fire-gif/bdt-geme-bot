@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, ContextTypes, MessageHandler, filters
 
 # আপনার টেলিগ্রাম বট টোকেন এবং জেমিনি এপিআই কি
-TELEGRAM_BOT_TOKEN = "8724046321:AAew3SYzPIGE2MMWZeWPFIAozfllLmQt6E"
+TELEGRAM_BOT_TOKEN = "8724046321:AAGZPt8-AxUzIoNbDR75VE91-azZLAERdOk"
 GEMINI_API_KEY = "AQ.AbIRn6KK6E2nl70mtyFMfb9RzU3s50bgMD0Vcin_nRoV6DTT1A"
 
 # জেমিনি কনফিগারেশন
